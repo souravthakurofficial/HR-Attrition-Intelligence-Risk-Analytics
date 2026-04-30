@@ -6,15 +6,21 @@ Analyze employee attrition patterns, identify key drivers of turnover, and enabl
 
 ### 🔹 Tools Used
 Power BI
+
 Power Query (Data Cleaning & Transformation)
+
 DAX (CALCULATE, DIVIDE, IF, SWITCH, RANKX)
+
 Excel / CSV
 
 ### 🔹 Key Insights
 
 Attrition rate is 16.1%, concentrated in specific departments (R&D, Sales)
+
 Overtime and low job satisfaction are major drivers of attrition
+
 Employees with long promotion gaps show higher exit rates
+
 Identified high-risk employees for proactive retention
 
 ### 🔹 Dashboard Preview
@@ -31,16 +37,23 @@ Identified high-risk employees for proactive retention
 ### 🔹 Files Included
 
 Power BI file (.pbix)
+
 Cleaned dataset
+
 Dashboard screenshots
+
 Project presentation (PPT)
 
 ### 🔹 Key Features
 
 Executive KPI dashboard with RAG indicators
+
 Department-level scorecards for benchmarking
+
 Attrition driver analysis (overtime, satisfaction, growth)
+
 Drillthrough pages for detailed employee insights
+
 Interactive slicers, tooltips, and dynamic visuals
 
 ### 🔹 Business Impact
